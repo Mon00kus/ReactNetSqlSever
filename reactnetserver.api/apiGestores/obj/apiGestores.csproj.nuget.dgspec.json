@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Raul\\Desktop\\Test\\apiGestores\\apiGestores\\apiGestores.csproj": {}
+    "C:\\Users\\Raul\\Desktop\\ReactNetSqlSever\\reactnetserver.api\\apiGestores\\apiGestores.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Raul\\Desktop\\Test\\apiGestores\\apiGestores\\apiGestores.csproj": {
+    "C:\\Users\\Raul\\Desktop\\ReactNetSqlSever\\reactnetserver.api\\apiGestores\\apiGestores.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Raul\\Desktop\\Test\\apiGestores\\apiGestores\\apiGestores.csproj",
+        "projectUniqueName": "C:\\Users\\Raul\\Desktop\\ReactNetSqlSever\\reactnetserver.api\\apiGestores\\apiGestores.csproj",
         "projectName": "apiGestores",
-        "projectPath": "C:\\Users\\Raul\\Desktop\\Test\\apiGestores\\apiGestores\\apiGestores.csproj",
+        "projectPath": "C:\\Users\\Raul\\Desktop\\ReactNetSqlSever\\reactnetserver.api\\apiGestores\\apiGestores.csproj",
         "packagesPath": "C:\\Users\\Raul\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Raul\\Desktop\\Test\\apiGestores\\apiGestores\\obj\\",
+        "outputPath": "C:\\Users\\Raul\\Desktop\\ReactNetSqlSever\\reactnetserver.api\\apiGestores\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
